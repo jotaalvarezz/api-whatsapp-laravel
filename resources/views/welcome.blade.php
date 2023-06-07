@@ -416,7 +416,7 @@
                     @csrf
                     <input class="form-control mb-3" type="text" placeholder="To" name='to'>
                     <input class="form-control mb-3" type="text" placeholder="message" name='message'>
-                    <input class="btn btn-success" type="submit" value="Enviar">
+                    <input class="btn btn-outline-success" type="submit" value="Enviar">
                 </form>
             </div>
         </div>
